@@ -8,6 +8,8 @@ Requirements
 ---
 Google Closure Compiler: [download](https://developers.google.com/closure/compiler/docs/gettingstarted_app?hl=ru)
 
+Java: [download](https://java.com/ru/download/)
+
 Basic usage
 ----
 
