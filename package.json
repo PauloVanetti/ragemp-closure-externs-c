@@ -1,0 +1,21 @@
+{
+  "name": "@vanetti/ragemp-closure-externs-c",
+  "version": "1.0.0",
+  "description": "Rage Multiplayer clientside externs for Google Closure Compiler",
+  "main": "index.js",
+  "keywords": [
+    "Rage",
+    "MP",
+    "Client",
+    "Externs",
+    "Google",
+    "Closure",
+    "Compiler"
+  ],
+  "author": {
+    "url": "https://github.com/PauloVanetti",
+    "email": "paulovanetti@gmail.com",
+    "name": "Paulo Vanetti"
+  },
+  "license": "MIT"
+}
