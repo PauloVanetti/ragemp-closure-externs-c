@@ -14,5 +14,5 @@ Basic usage
 ----
 
 ```text
-  java -jar closure.jar --externs externs/index.js --compilation_level ADVANCED --env BROWSER --js dist/bundle.js --js_output_file dist/bundle.closure.js
+  java -jar closure.jar --externs node_modules/@vanetti/ragemp-closure-externs-c/externs/index.js --compilation_level ADVANCED --env BROWSER --js dist/bundle.js --js_output_file dist/bundle.closure.js
 ```
