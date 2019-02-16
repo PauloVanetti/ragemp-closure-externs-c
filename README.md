@@ -18,7 +18,7 @@ Quickstart
 
 Install this package with npm
 ```
-  npm i --save-dev @vanetti/ragemp-closure-externs-c
+npm i --save-dev @vanetti/ragemp-closure-externs-c
 ```
 or download from repository and unzip to your project directory
 
